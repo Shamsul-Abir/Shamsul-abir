@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samsul-abir
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me: samsulabir003@gmail.com
+- 👀 I’m interested in web Development.
+- 🌱 I’m currently learning full stact web development
+- 💞️ I’m looking to collaborate on as a junior developer
+- 📫 Contact me: samsulabir007@gmail.com
 
 <!---
 Samsul-abir/Samsul-abir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
