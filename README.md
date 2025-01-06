@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shamsul-Arefin-Abir
-- 👀 I’m interested in web Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning full stact web development
-- 💞️ I’m looking to collaborate on as a junior developer
+- 💞️ I’m looking to collaborate on as a developer
 - 📫 Contact me: samsulabir007@gmail.com
 
 <!---
